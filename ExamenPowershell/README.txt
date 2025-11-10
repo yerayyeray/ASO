@@ -42,4 +42,3 @@ Mejoras implementadas
 5. Logs detallados: Write-Log con niveles INFO, WARN y ERROR.
 6. Control de errores: manejo con try/catch en operaciones críticas.
 7. Mensajes informativos: Write-Verbose y Write-Warning para feedback al usuario.
-
