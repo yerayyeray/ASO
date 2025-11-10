@@ -1,0 +1,4 @@
+[2025-11-10 12:00:18] INFO IF04-10 [UT1_P1_YGM] Inicio de inventario.
+[2025-11-10 12:00:18] INFO IF04-10 [UT1_P1_YGM] Datos del sistema recopilados.
+[2025-11-10 12:00:18] INFO IF04-10 [UT1_P1_YGM] Inventario generado correctamente en H:\ASR2\Practica_PS\IF04-10-UT1_P1_YGM.csv
+[2025-11-10 12:00:18] INFO IF04-10 [UT1_P1_YGM] Resumen final: Inventario disponible en H:\ASR2\Practica_PS\IF04-10-UT1_P1_YGM.csv
