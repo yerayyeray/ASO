@@ -31,7 +31,7 @@ Abrir PowerShell y ejecutar el script con los parámetros deseados. Ejemplo:
 
     .\Inventario_PC.ps1 -OutputPath "H:\ASR2\Practica_PS" -LogPath "H:\ASR2\Practica_PS\logs" -SessionCode "UT1_P1_YGM"
 
-Nota: Si no se especifican parámetros, se usarán los valores por defecto.
+Si no se especifican parámetros, se usarán los valores por defecto.
 
 Mejoras implementadas
 --------------------
@@ -42,3 +42,4 @@ Mejoras implementadas
 5. Logs detallados: Write-Log con niveles INFO, WARN y ERROR.
 6. Control de errores: manejo con try/catch en operaciones críticas.
 7. Mensajes informativos: Write-Verbose y Write-Warning para feedback al usuario.
+
