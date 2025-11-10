@@ -1,3 +1,12 @@
+#==============================================================
+# Nombre: UT1_practica1-GutierrezMullorYeray.ps1
+# Descripción: Importar especificaciones del PC a un CSV
+# Autor: Yeray Gutierrez Mullor
+# Fecha:10/11/2025
+# Versión: 1
+# Uso: Importar especificaciones del PC a un CSV
+# Comentarios: Examen
+#==============================================================
 <#
 .SYNOPSIS
   Inventario de PC mejorado con parametrización, comprobación de rutas, logs y control de errores.
@@ -130,3 +139,4 @@ try {
 
 Write-Host "Resumen: Inventario disponible en $exportPath"
 Write-Log -Level "INFO" -Message "Resumen final: Inventario disponible en $exportPath"
+
