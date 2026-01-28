@@ -35,7 +35,7 @@ Ahora deberia aparecer el Windows Server en la lista de conexiones
 
 ### Prueba de conexion con el servidor desde WAC:
 Prueba de que hay acceso al Windows Server
-![Acceso](.\Capturas\1.10_wac_servidor.png)
+![Acceso](UT4-Administracion-Remota/Practica1-Administracion-Remota/Capturas/1.10_wac_servidor.png)
 
 ---
 
@@ -61,5 +61,6 @@ Desde Windows 11 abrir navegador e ir a la url de la ip del Ubuntu Server desde 
 ### Prueba de Monitorizacion:
 Pantalla de inicio de Cockpit donde se muestra la monitorizacion de la CPU y la memoria
 ![Monitorizacion](.\Capturas\2.5_cockpit_monitorizacion.png)
+
 
 
