@@ -35,7 +35,7 @@ Ahora deberia aparecer el Windows Server en la lista de conexiones
 
 ### Prueba de conexion con el servidor desde WAC:
 Prueba de que hay acceso al Windows Server
-![Acceso](UT4-Administracion-Remota/Practica1-Administracion-Remota/Capturas/1.10_wac_servidor.png)
+![Acceso](Capturas/1.10_wac_servidor.png)
 
 ---
 
