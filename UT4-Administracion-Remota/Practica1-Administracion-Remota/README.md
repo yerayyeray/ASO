@@ -9,10 +9,12 @@
 
 ### Instalar WAC:
 Descargar el ejecutable desde la web oficial de microsoft y completar la instalación
+ 
 ![Instalacion](Capturas/1.1_wac_instalacion.png)
 
 ### Firewall de Windows Server:
 Implementar esta regla en el Windows Server para permitir la conexión desde el WAC
+ 
 ![Firewall](Capturas/1.2_wac_reglasfirewallserver.png)
 
 ### Acceso a Windows Admin Center:
@@ -61,6 +63,7 @@ Desde Windows 11 abrir navegador e ir a la url de la ip del Ubuntu Server desde 
 ### Prueba de Monitorizacion:
 Pantalla de inicio de Cockpit donde se muestra la monitorizacion de la CPU y la memoria
 ![Monitorizacion](Capturas/2.5_cockpit_monitorizacion.png)
+
 
 
 
