@@ -193,5 +193,4 @@ Realizar una ejecución manual de la tarea mediante la opción **Ejecutar** para
 Verificar la creación del archivo de registro en `C:\Logs`, confirmando que el script se ha ejecutado con éxito y ha realizado las tareas de limpieza.
 
 
-![prueba5](/Capturas/Parte2/prueba5.png)
-
+![prueba5](Capturas/Parte2/prueba5.png)
