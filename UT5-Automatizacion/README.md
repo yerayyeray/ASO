@@ -1,9 +1,5 @@
 # Tarea de Automatizacion con GPOs
 ---
-
-
-
----
 ## Parte 1: Mapeo automático de unidades de red:
 
 **Objetivo:** Configurar la asignación automática de recursos de red mediante GPO según el grupo de seguridad del usuario.
@@ -37,7 +33,7 @@ Se ha configurado la jerarquía de **Unidades Organizativas** en el **Active Dir
 ### Carpetas a compartir:
 Se han creado las carpetas locales en el servidor dentro de la ruta `C:\Compartidas\`.
 
-![carpetas](/Capturas/Parte1/compartidas.png)
+![carpetas](Capturas/Parte1/compartidas.png)
 
 ---
 
@@ -194,5 +190,6 @@ Realizar una ejecución manual de la tarea mediante la opción **Ejecutar** para
 
 ### Muestra del LOG creado:
 Verificar la creación del archivo de registro en `C:\Logs`, confirmando que el script se ha ejecutado con éxito y ha realizado las tareas de limpieza.
+
 
 ![prueba5](/Capturas/Parte2/prueba5.png)
